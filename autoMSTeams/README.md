@@ -16,7 +16,7 @@ Lưu ý cài đặt theo hướng dẫn.
 
 1. Mở MS Teams, chọn lớp cần thêm sinh viên, thực hiện theo hình sau:
     
-    ![hd1](/images/hd1.gif)
+    ![hd1](images/hd1.gif)
 
     Giữ nguyên như vậy.
 
@@ -28,7 +28,7 @@ Lưu ý cài đặt theo hướng dẫn.
 
     Chương trình sẽ chờ 5 giây để chúng ta quay lại MS Teams. (Có thể thay đổi thời gian chờ trong file code)
     
-    ![hd2](/images/hd2.gif)
+    ![hd2](images/hd2.gif)
 
 ## **Bước 3. Hoàn thành, đóng cửa sổ**
 Khi chương trình chạy xong, click vào nút *Thêm* trong cửa sổ MS Teams, sau đó click *Đóng*.
